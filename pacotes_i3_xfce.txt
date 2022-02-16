@@ -18,6 +18,7 @@ xfce4-pulseaudio-plugin
 xfce4-taskmanager
 
 # base xfce4-settings
+xfce4-settings
 xfce4-settings-manager
 
 # dependencias
