@@ -1,0 +1,80 @@
+
+# base
+git
+
+# gerenciador de janelas
+xorg
+i3-wm
+
+# pulseaudio
+pulseaudio
+pavucontrol
+
+
+# ambiente xfce4
+xfce4-panel
+xfce4-datetime-plugin
+xfce4-pulseaudio-plugin
+xfce4-taskmanager
+
+# base xfce4-settings
+xfce4-settings-manager
+
+# dependencias
+xfce4-mouse-settings
+xfce4-keyboard-settings
+
+
+# menu
+suckless-tools
+rofi
+
+# configuracao de monito
+arandr
+
+# gerenciamento de arquivos
+ranger
+pcmanfm
+gvfs-backends
+gvfs-fuse
+xarchiver
+p7zip-full
+rar
+unrar
+
+# notificacoes do sistema
+xfce4-notifyd
+
+# aparencia
+fonts-font-awesome
+
+# papel de parede
+feh
+
+# gerenciador de redes
+network-manager
+network-manager-gnome
+
+# capitura de tela
+xfce4-screenshooter
+
+# fixar teclado numerio
+numlockx
+
+# editores
+vim
+
+# informacoes do sistema
+htop
+neofetch
+
+# agente de autenticacao
+policykit-1-gnome
+
+# integracao com shell
+dialog
+yad
+
+# xdg
+xdg-user-dirs
+xdg-utils
