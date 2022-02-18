@@ -19,11 +19,12 @@ xfce4-taskmanager
 
 # base xfce4-settings
 xfce4-settings
-xfce4-settings-manager
 
-# dependencias
-xfce4-mouse-settings
-xfce4-keyboard-settings
+# deoebde di xfwn
+  xfce4-settings-manager
+  # dependencias
+  xfce4-mouse-settings
+  xfce4-keyboard-settings
 
 
 # menu
