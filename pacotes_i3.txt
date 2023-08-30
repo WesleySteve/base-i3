@@ -1,0 +1,70 @@
+
+# base
+git
+
+# gerenciador de janelas
+xorg
+i3-wm
+
+# pulseaudio
+pulseaudio
+pavucontrol
+
+# menu
+suckless-tools
+rofi
+
+# configuracao de monito
+arandr
+
+# gerenciamento de arquivos
+ranger
+gvfs-backends
+gvfs-fuse
+xarchiver
+p7zip-full
+rar
+unrar
+
+
+# aparencia
+fonts-font-awesome
+
+# papel de parede
+feh
+
+# gerenciador de redes
+network-manager
+network-manager-gnome
+
+# capitura de tela
+flameshot
+
+# fixar teclado numerio
+numlockx
+
+# editores
+neovim
+
+# informacoes do sistema
+htop
+neofetch
+
+# agente de autenticacao
+policykit-1-gnome
+
+# integracao com shell
+dialog
+yad
+
+# xdg
+xdg-user-dirs
+xdg-utils
+
+# xfce4
+xfce4-notifyd
+xfce4-pulseaudio-plugin
+
+
+
+

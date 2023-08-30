@@ -12,11 +12,9 @@ set $mod Mod4
 
 # bindsym shortener
 
-#set $sup bindsym Mod1
-set $sup bindsym Mod4
+set $sup bindsym Mod1
+#set $sup bindsym Mod4
 
-
-# exec shortener
 
 set $exe exec --no-startup-id
 set $exe_always exec_always --no-startup-id
@@ -41,7 +39,7 @@ $sup+Shift+r		restart
 $sup+d			$exe rofi -show drun	
 
 
-$sup+Shift+e			$exe $bin_path/dmenu-i3-logout
+$sup+Shift+e			$exe $bin_path/rofi-i3-logout
 
 
 
@@ -337,10 +335,12 @@ $sup+Tab                     $exe rofi -show window
 
 $exe_always xset b off
 $exe_always ${HOME}/.screenlayout/i3-default.sh
+#$exe_always ${HOME}/.screenlayout/i3-note.sh
 $exe ${HOME}/.fehbg
 $exe_always numlockx
 $exe /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+$exe polybar example
 $exe nm-applet
-$exe xfce4-panel
+#$exe xfce4-panel
 
 # ------------------------------------------------------------- fim session startup ---------------------------------------------- #
